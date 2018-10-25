@@ -1,0 +1,3 @@
+[submodule "themes/knight"]
+	path = themes/knight
+	url = https://github.com/thomasdfeeley/knight

@@ -1,0 +1,10 @@
+
+# http and https pointing to https://
+
+http://tomfeeley.com/* https://tomfeeley.com/:splat 301!
+https://www.tomfeeley.com/* https://tomfeeley.com/:splat 301!
+http://www.tomfeeley.com/* https://tomfeeley.com/:splat 301!
+
+# basic redirects
+
+/repair-request-form      /maintenance-request-form

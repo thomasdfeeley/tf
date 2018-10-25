@@ -1,0 +1,22 @@
+baseURL = "https://tomfeeley.com"
+languageCode = "en-us"
+title = "Tom Feeley"
+theme = "knight"
+
+enableRobotsTXT = true
+canonifyURLs = true
+googleAnalytics = "UA-x"
+
+[params]
+author = "Tom Feeley"
+description = "Strategist, Designer, and Writer"
+twitter = "thomasdfeeley"
+email = "tom@tomfeeley.com"
+
+[permalinks]
+articles = "/:filename/"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
