@@ -5,7 +5,7 @@ theme = "knight"
 
 enableRobotsTXT = true
 canonifyURLs = true
-googleAnalytics = "UA-x"
+googleAnalytics = "UA-108608358-1"
 
 [params]
 author = "Tom Feeley"
