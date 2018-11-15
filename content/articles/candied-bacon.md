@@ -1,6 +1,6 @@
 ---
 title: "Candied Bacon for Ballers"
-metatitle: "HOW TO: Make Candied Bacon Appetizers with Brown Sugar & Spices [Recipe]"
+metatitle: "HOW TO: Make Candied Bacon Appetizers with Brown Sugar [Recipe]"
 description: "This candied bacon recipe is strictly for ballers. Why? Cause ballers need to eat too. Bring candied bacon to college football tailgates, bring it to Super Bowl parties, take it on ski trips. Unleash your inner Weekend Warrior with spicy chipotle candied bacon!"
 date: 2017-12-07T01:50:45+00:00
 lastmod: 2018-08-24
@@ -11,7 +11,7 @@ featuredimage: "https://tomfeeley.com/img/articles/fresh-cooked-bacon-768x512.jp
 featuredimagealt: "Freshly cooked candied bacon with brown sugar and spices"
 ---
 
-## Bacon Recipes 
+## Bacon Recipes
 
 - [Candied Bacon Recipe](#candied-bacon-appetizer-recipe)
 - [How to cure bacon at home](#how-do-i-home-cure-bacon)
@@ -19,7 +19,7 @@ featuredimagealt: "Freshly cooked candied bacon with brown sugar and spices"
 
 Haters may hate, but I bring this spicy Chipotle Candied Bacon appetizer to every college football tailgate, Super Bowl party, and ski trip.
 
-The Chipotle Candied Bacon had just the right amount of sweetness and spice. So, I set out to make it. After speaking with one of the vendors of the Bacon and Beer Festival, I realized that I could easily make my own spicy candied bacon. 
+The Chipotle Candied Bacon had just the right amount of sweetness and spice. So, I set out to make it. After speaking with one of the vendors of the Bacon and Beer Festival, I realized that I could easily make my own spicy candied bacon.
 
 The chipotle will give the bacon a nice, smoky heat, and the sugar really balances the spice. By the time you are done, your kitchen will smell like <a href="https://en.wikipedia.org/wiki/George_S._Patton">Patton</a> rolling through Tunisia ... VICTORY!
 
@@ -73,7 +73,7 @@ To get fancy, you can create your own chipotle rub. To get super fancy, you coul
   <figcaption class="caption">The most important part - adding the bacon</figcaption>
 </figure>
 
-The second way is to make a glaze. You can do this with sugar, or you can do it with your choice of sweetener: maple syrup, honey, agave, etc. 
+The second way is to make a glaze. You can do this with sugar, or you can do it with your choice of sweetener: maple syrup, honey, agave, etc.
 
 Combine your sweetener with your chipotle powder in a saucepan over low heat. You will want to warm it until it’s somewhat viscous and can be brushed or drizzled on to the bacon.
 
@@ -129,7 +129,7 @@ Do NOT dry the bacon on a paper towel.  That is a recipe for eating sticky pape
 
 ### How long does the bacon candy last for?
 
-Candied bacon lasts about a week, especially if stored properly. That is in theory. 
+Candied bacon lasts about a week, especially if stored properly. That is in theory.
 
 In practice, candied bacon lasts the duration of the meal, maybe less. It's just so tasty.
 
@@ -183,7 +183,7 @@ Mix the ingredients below in a bowl. Done.
 - 1 tbsp ground cumin
 - 1/2 tbsp salt
 - 1/2 tbsp of black pepper
-- 2 tbsp sugar (optional) 
+- 2 tbsp sugar (optional)
 
 ### Do I want my chipotle rub to be sweet or savory?
 
@@ -207,7 +207,7 @@ Do you hike?  Bring it along.
 
 Camp?  Even better.
 
-Ski?  The best. 
+Ski?  The best.
 
 It's the ideal <a href="https://www.powder.com/stories/interviews/rules-pocket-bacon/">pocket bacon</a> to snack on after your milk run.  So good, you will spend Apres-ski bragging about it - or complaining about how the tavern isn't making any.
 

@@ -1,6 +1,6 @@
 ---
 title: "Rental Property Management: Maintenance Request Form [Tutorial]"
-metatitle: "Learn how to create a Maintenance Request Form for your residential rental property"
+metatitle: "How to create a Maintenance Request Form for residential rental property"
 date: 2017-12-08T18:55:50+00:00
 lastmod: 2018-08-16
 description: "Improve your profitability by learning how to create a (free) Maintenance Request Form to help you maintain your residential rental property."
