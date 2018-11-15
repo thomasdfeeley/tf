@@ -7,4 +7,4 @@ http://www.tomfeeley.com/* https://tomfeeley.com/:splat 301!
 
 # basic redirects
 
-https://tomfeeley.com/repair-request-form      https://tomfeeley.com/maintenance-request-form
+/repair-request-form/      /maintenance-request-form/
