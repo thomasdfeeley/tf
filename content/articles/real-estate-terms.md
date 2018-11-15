@@ -1,12 +1,12 @@
 ---
-title: "497 Real Estate Terms: The Ultimate Real Estate Glossary"
-metatitle: "497 Real Estate Terms to study for your salesperson license"
+title: "The Ultimate Real Estate Glossary: 497 real estate terms that every salesperson should know"
+metatitle: "497 Real Estate Terms to know [realty definition dictionary]"
 date: 2018-02-27T02:39:27+00:00
 lastmod: 2018-08-04
-description: "497 real estate terms and definitions that make up the very best real estate glossary on the entire internet. Study for your real estate salesperson license. FLASHCARDS INCLUDED!"
+description: "497 real estate terms, realty definitions, words and lingo that will help you study for the real estate salesperson license. FLASHCARDS INCLUDED!"
 author: "tom"
-categories: 
-lead: "If you’re getting into real estate, than these real estate terms are for you. Here are 497 terms and definitions to use as a study guide for the real estate agent exam. If you’re already a salesperson or broker, than this real estate glossary will help you brush up on phrases that you may not come in contact with on a day to day basis."
+categories:
+lead: "If you want to become a realtor, than these 497 real estate terms are for you. Use this dictionary as a study guide for the real estate agent exam. If you’re already a salesperson or broker, than this real estate glossary will help you brush up on phrases that you may not come in contact with on a day to day basis."
 featuredimage: "/img/articles/real-estate-terms-study-guide.jpg"
 featuredimagealt: "497 Real Estate Terms to study for your salesperson license"
 ---
@@ -28,6 +28,16 @@ No. For starters, a perfect score on the exam is not required to obtain a real e
 
 Yes. These terms will come up everywhere, from MLS property descriptions to interacting with real estate attorneys and developers. Top real estate agents know these terms and definitions, so start building your vocabulary.
 
+From time to time, you will get asked questions from both clients and other people in the realty field that you weren't expecting.  Questions like:
+
+- What is a CMA?
+- What is a short sale?
+- What does REO mean?
+- What is blockbusting?
+- What does cap rate mean?
+
+And if you're caught flatfooted, you might have just lost some $$. Why not bookmark this page?  It's mobile friendly and easily accessible out on the road.  Duck into another room and quickly scan for the term below. Cause let's face it, you aren't going to carry around that salesperson study guide for the rest of your career.
+
 ## How much of this real estate exam study guide is just jargon?
 
 A fair share. Don’t be intimidated. Separate yourself from less detail oriented salespersons and brokers by studying these realty terms. Once you are familiar with the lingo, it will become much easier to traverse.
@@ -42,7 +52,7 @@ Maybe?  As a person responsible for the management of an income property, famili
 
 ## I am already a Real Estate Agent, Salesperson, Broker, Realtor, etc., and I know the terms and definitions, why should I continue on?
 
-Congratulations. Feel free to review them below.
+Congratulations, this glossary of terms should just be a review to you.
 
 - - -
 
