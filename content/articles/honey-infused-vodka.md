@@ -1,11 +1,11 @@
 ---
-title: "Honey Infused Vodka with oats is perfect for a holiday party."
+title: "Honey Infused Vodka with oats and cinnamon is perfect for your holiday party"
 metatitle: "How to make Honey Infused Vodka [Tutorial]"
 date: 2017-12-06T03:35:45+00:00
 lastmod: 2018-07-24
 description: "Maybe you're throwing a holiday party, or maybe it's just Friday night. Either way, Honey Infused Vodka will take your evening up a notch. Honey infused vodka goes great with a dash of nutmeg vanilla, or cinnamon."
 author: "tom"
-categories: 
+categories:
 lead: "Be a star at the next college football tailgate with honey infused vodka. You will feel like far less of a degenerate if your 8:30am booze tastes like Honey Nut Cheerios, and trust me that's what honey infused vodka tastes like. Breakfast of champions!"
 featuredimage: "https://tomfeeley.com/img/articles/blended-honey-mixture-768x512.jpg"
 featuredimagealt: "How to make honey infused vodka"
@@ -42,7 +42,7 @@ For this experiment, we are going to infuse honey and oats into some cheap, stor
 
 ## Why avoid premium vodka?
 
-Because you are adding your own flavor to it. You don’t need the smoothest vodka that money can buy to get a great result with this recipe. So forget the Grey Goose and forgo the Ciroc. Plus, you don’t need to further pad Diddy’s wallet. 
+Because you are adding your own flavor to it. You don’t need the smoothest vodka that money can buy to get a great result with this recipe. So forget the Grey Goose and forgo the Ciroc. Plus, you don’t need to further pad Diddy’s wallet.
 
 I’m sorry, “Brother Love”.
 
@@ -69,7 +69,7 @@ For starters, you only need two pieces of equipment to make your infused honey o
   <figcaption class="caption">Fill up the jug with vodka</figcaption>
 </figure>
 
-Now, to make the homemade honey infused vodka, start by pouring your liter of college grade spirits, I chose Smirnoff, into your mason jar, milk jug, red snowblower gas can, etc. and then add your (preferably organic?) rolled oats. 
+Now, to make the homemade honey infused vodka, start by pouring your liter of college grade spirits, I chose Smirnoff, into your mason jar, milk jug, red snowblower gas can, etc. and then add your (preferably organic?) rolled oats.
 
 Seal the container and shake it up vigorously. You will want to repeat this process a couple of times a day over the next four to five days as you let the oats infuse, creating your flavored vodka.
 
@@ -82,7 +82,7 @@ It should start to look a bit cloudy like the picture below.
   <figcaption class="caption">The oats infusing into the vodka</figcaption>
 </figure>
 
-When the oats are done infusing their flavor into the vodka, it’s time to strain the mixture. This is where the metal strainer will come in handy as well as the cheesecloth. 
+When the oats are done infusing their flavor into the vodka, it’s time to strain the mixture. This is where the metal strainer will come in handy as well as the cheesecloth.
 
 <figure>
   <img class="lazy" src="/img/articles/cut-up-the-cheesecloth-768x512.jpg" alt="Cheesecloth to help strain the oats from the vodka" width="768" height="512" />
@@ -100,7 +100,7 @@ After that, give it a few minutes to settle. Then, it’s time to use the cheese
 
 The longer you left the oats in, the more times you should strain, let’s call it three to five times.
 
-After you have strained the mixture, it is time to add the sweetener. In my experiment, I used a half-bear (technical measurement) of <a href="http://bostonhoneycompany.com/">local, Massachusetts honey</a>. You can use maple syrup or pure agave if you like. I prefer syrup. 
+After you have strained the mixture, it is time to add the sweetener. In my experiment, I used a half-bear (technical measurement) of <a href="http://bostonhoneycompany.com/">local, Massachusetts honey</a>. You can use maple syrup or pure agave if you like. I prefer syrup.
 
 <figure>
   <img class="lazy" src="/img/articles/honey-or-syrup-768x512.jpg" alt="Infuse the vodka with honey or maple syrup" width="768" height="512" />
@@ -122,6 +122,6 @@ Congrats. It's now time to enjoy your homemade honey infused vodka. If you want,
 
 If it’s the holiday season, feel free to sprinkle in some nutmeg or cinnamon, or some allspice if you are really feeling it.
 
-And if you get tired of the infusing vodka with honey, oats, pineapple, or whatever, grab a two buck chuck that you have lying around and <a href="https://tomfeeley.com/hyperdecanting/">hyperdecant</a> it (aerate it in a blender). 
+And if you get tired of the infusing vodka with honey, oats, pineapple, or whatever, grab a two buck chuck that you have lying around and <a href="https://tomfeeley.com/hyperdecanting/">hyperdecant</a> it (aerate it in a blender).
 
 Let me know if that works for you.
