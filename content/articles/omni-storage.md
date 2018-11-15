@@ -21,7 +21,7 @@ featuredimagealt: "Omni Storage and Rentals in San Francisco, CA, and Portland, 
 
 I set out to create a passive income stream / side hustle, a la Chris Guillebeau (<a href="https://sidehustleschool.com/">Side Hustle School</a>), that involved minimal work on my part.  You know the type, something very hands off. A quick note about me, I am very interested in the idea of rental property as a side hustle.  The problem with the typical rental property is that it is infinitely more complicated and definitively not hands off.
 
-Normally, when one thinks of rental property, they think of residential real estate.  Real estate, unless you are old money, part of the current tech oligarchy (or robber barons), or freshly minted crypto-rich, isn’t acquired with the push of a Staples easy button.  No, managing a rental property is anything but hands off - tenants, <a href="https://tomfeeley.com/repair-request-form/">repair requests</a>, bookkeeping, and a whole host of other issues.
+Normally, when one thinks of rental property, they think of residential real estate.  Real estate, unless you are old money, part of the current tech oligarchy (or robber barons), or freshly minted crypto-rich, isn’t acquired with the push of a Staples easy button.  No, managing a rental property is anything but hands off - tenants, <a href="https://tomfeeley.com/maintenance-request-form/">maintenance repair requests</a>, bookkeeping, and a whole host of other issues.
 
 #### What about other types of property?
 

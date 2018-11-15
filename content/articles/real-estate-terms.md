@@ -48,7 +48,7 @@ Probably just commission. We all know that means getting paid, right?
 
 ## I am a landlord/property manager, does any of this apply to me?
 
-Maybe?  As a person responsible for the management of an income property, familiarizing yourself with some of the terms and definitions in the list below can only benefit the daily operation and profitability of the business. Create good customer service with a <a href="https://tomfeeley.com/repair-request-form/">repair request form</a>.
+Maybe?  As a person responsible for the management of an income property, familiarizing yourself with some of the terms and definitions in the list below can only benefit the daily operation and profitability of the business. Create good customer service with a <a href="https://tomfeeley.com/maintenance-request-form/">maintenance request form</a>.
 
 ## I am already a Real Estate Agent, Salesperson, Broker, Realtor, etc., and I know the terms and definitions, why should I continue on?
 
