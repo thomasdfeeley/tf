@@ -1,5 +1,5 @@
 ---
-title: "Try Hyperdecanting if you want to improve a two buck chuck"
+title: "Hyperdecanting, or, aerating wine in a blender, is a quick way to make cheap wine taste better"
 metatitle: "Hyperdecanting: How to Improve a Two Buck Chuck (wine)"
 date: 2017-12-05T02:49:23+00:00
 lastmod: 2018-08-22
@@ -10,6 +10,16 @@ lead: "Oenophiliacs beware, we are destroying wine here. Or are we? For your nex
 featuredimage: ""
 featuredimagealt: ""
 ---
+
+Drinking cheap wine is a collegiate right of passage. It may lack flavor, but it pretty much does the trick. All the better if you live close to a Trader Joe's and can grab some Charles Shaw Two Buck Chuck. Which, coincidentally, was _actually_ two bucks when I was in college.
+
+Anyway, keeping with the collegiate theme, for a long time, I stayed away from cheap red wine, or red wine at all I guess. Then over time, you grow up, your tastes change, and then you try things.  Such is life.
+
+One thing I wish I had known then, besides the need to aerate red wine, I mean really, what college kid owns a decanter (don't answer that), was that I could substitute a cheap aerator for the party blender!
+
+In order to improve the taste of cheap red wine, I could have used the blender to hyperdecant it.  Which, if you think about it, is really a total college move.  Poor form on my part.
+
+Anyway, to learn more, read on.
 
 <figure>
   <img class="lazy" src="/img/articles/trader-joes-wine.jpg" alt="The two buck chuck wine display at Trader Joe's" width="960" height="720" />
@@ -88,13 +98,15 @@ Trader Joe's steps up their game by offering organic two buck chuck.  Would Char
 
 The resealable cork is a tasteful and welcome addition to these wine bottles.  
 
-## Why does red wine need to be aerated?
+## Why does red wine need to be aerated? Does decanting wine make a difference?
 
 Aeration helps remove undesirable aromas, thus "improving" the taste perception of the wine.
 
 ## Can you put wine in a blender?
 
-Yes! That is exactly what hyperdecanting is!  It's just a fancy word for aerating your wine in a blender.
+Yes! That is exactly what hyperdecanting is!  It's just a fancy word for aerating your wine in a blender - or - letting wine breathe.
+
+The best part is that blender is the most inexpensive wine decanter because you (probably?) already own one. Better yet, it can serve as a cheap carafe.  Multi-tasking FTW!
 
 ## What is hyperdecanting?
 
@@ -151,12 +163,10 @@ First off, it’s not like freeze drying food. You should consume the wine immed
 
 It won’t turn a cheap red wine into a good red wine. Let’s face it, you couldn’t slide your hyperdecanted two buck chuck past an actual sommelier. But, there is still plenty of room to impress your friends at your next wine tasting party.
 
-May I suggest a fine <a href="http://www.totalwine.com/wine/red-wine/cabernet-sauvignon/pacific-peak-cabernet-sauvignon/p/94614750">Pacific Peak Cabernet Sauvignon</a>?
-
-If you want to add a touch of class, you could opt for the <a href="https://www.amazon.com/gp/product/B075FXYQYP/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B075FXYQYP&amp;linkCode=as2&amp;tag=tomfeeley-20&amp;linkId=ed347d618bbb4ee9357cc9e8cd9418ca" target="_blank" rel="noopener">Wente Cabernet Sauvignon</a><img style="border: none !important; margin: 0px !important;" src="//ir-na.amazon-adsystem.com/e/ir?t=tomfeeley-20&amp;l=am2&amp;o=1&amp;a=B075FXYQYP" alt="" width="1" height="1" border="0" />.
+May I suggest a fine Pacific Peak Cabernet Sauvignon? Or if you want to add a touch of class, you could opt for the <a href="https://www.amazon.com/gp/product/B075FXYQYP/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B075FXYQYP&amp;linkCode=as2&amp;tag=tomfeeley-20&amp;linkId=ed347d618bbb4ee9357cc9e8cd9418ca" target="_blank" rel="noopener">Wente Cabernet Sauvignon</a><img style="border: none !important; margin: 0px !important;" src="//ir-na.amazon-adsystem.com/e/ir?t=tomfeeley-20&amp;l=am2&amp;o=1&amp;a=B075FXYQYP" alt="" width="1" height="1" border="0" />.
 
 ## For an optimal wine tasting experience
-Try a good cheese pairing, say … a rich <a href="https://en.wikipedia.org/wiki/Mah%C3%B3n_cheese">mahón</a> with some jamón serrano.
+Try a good cheese pairing, say ... a rich <a href="https://en.wikipedia.org/wiki/Mah%C3%B3n_cheese">mahón</a> with some jamón serrano.
 
 As an aside, I’m told that mahón is the "cheddar" of Spain, and, not a bad gift for your cheese of the month club.
 
@@ -165,7 +175,9 @@ Also, if you actually spring for a jeroboam of 1945 Chateau Mouton-Rothschild, p
 No need to thank me.
 
 ### How big is a jeroboam?
+
 A jeroboam is a <a href="https://en.wikipedia.org/wiki/Wine_bottle">wine bottle</a> that contains between 4 bottles (3 liters) and 6 bottles (4.5 liters) as it depending on the type of wine.
 
 ## Tired of Hyperdecanting? Take your wine night up a notch
+
 Maybe it's the holiday season, maybe you are looking for a change - either way, you could try <a href="https://tomfeeley.com/honey-infused-vodka/">infusing your own vodka</a>. It's a fun way to spice up boring vodka.
