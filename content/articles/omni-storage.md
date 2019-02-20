@@ -1,11 +1,11 @@
 ---
-title: "Omni Storage: A rental side hustle that earns easy passive income [$$]"
-metatitle: "Omni Storage: A rental side hustle that earns easy passive income"
+title: "Omni Rentals: A rental side hustle that earns easy passive income [$$]"
+metatitle: "Omni Rentals: A rental side hustle that earns easy passive income"
 subtitle: "Rent personal belongings on Omni, a rental and item management platform"
 lead: "Looking for the easiest side hustle ever? Looking for how to make money without working? Try renting out new or unused items through Omni storage and Omni rentals."
 date: 2018-03-29T01:33:07+00:00
 lastmod: 2018-08-11
-description: "Create a smart passive income stream with Omni Storage. Omni Rentals lets you earn money online by renting out new and unused items. One of the easiest side hustle ideas to startup."
+description: "Create a smart passive income stream with Omni Storage/Rentals lets you earn money online by renting out new and unused items. One of the easiest side hustle ideas to startup."
 author: "tom"
 categories:
 featuredimage: "https://tomfeeley.com/img/articles/Omni-storage-rental-768x512.jpg"
