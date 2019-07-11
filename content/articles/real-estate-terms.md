@@ -1576,4 +1576,75 @@ Congratulations, this glossary of terms should just be a review to you.
 
 </dl>
 
+-
+
+<h2>I am a homebuyer, what real estate terminology applies to me?</h2>
+
+<dt>Closing Costs</dt>
+<dd>Fees that are associated with a home purchase. They apply to both a seller and a buyer, and they are paid at the closing.</dd>
+
+<dt>Down payment</dt>
+<dd>An initial payment used to purchase an item, for our purposes a property. A down payment is typically 20%, but other amounts can be used.</dd>
+
+<dt>Mortgage types: Adjustable-rate Mortgage and Fixed-rate Mortgage</dt>
+
+<dt>Mortgage Payments</dt>
+<dd>The total amount of payments due over the life of the loan.</dd>
+
+<dt>Monthly Mortgage</dt>
+<dd>The monthly principal and interest that is due on the loan.</dd>
+
+<dt>Piti</dt>
+<dd>Principal, interest, taxes, and insurance.</dd>
+
+<dt>Mortgage lender</dt>
+<dd>An entity that loans money, acquiring a security interest in the property.</dd>
+
+<dt>Mortgage broker</dt>
+<dd>A person who works with lenders and buyers/borrowers to facilitate the loan process.</dd>
+
+<dt>Second Mortgage</dt>
+<dd>An additional mortgage on a property.</dd>
+
+<dt>Origination Fee</dt>
+<dd>A processing fee issued by a lender during the creation of the loan.</dd>
+
+<dt>Home buying</dt>
+<dd>The act of acquiring an interest in real property.</dd>
+
+<dt>Title Search</dt>
+<dd>A title company's review of the deed and the (potential) claims upon it.</dd>
+
+<dt>Home inspection</dt>
+<dd>A review of the current condition of the property, one that will (hopefully) uncover necessary repairs and potential pitfalls.</dd>
+
+<dt>Common areas</dt>
+<dd>Areas which are available for use by more than one person.</dd>
+
+<dt>MLS (Multiple Listing Service)</dt>
+<dd>A service created for the use of displaying listings across many brokers and brokerages.</dd>
+
+<dt>Hazard Insurance</dt>
+<dd>A policy or part of a policy that creates coverage for vandalism, fire, and other events.</dd>
+
+<dt>Annual Percentage Rate</dt>
+<dd>The annual rate charged for borrowing.<dd>
+
+<dt>Fair Market Value</dt>
+<dd>The price for a property that is agreed upon by both the seller and a buyer.</dd>
+
+<dt>Refinance</dt>
+<dd>The act of acquiring a new mortgage to replace the old mortgage, oftentimes advantageous to the borrower.</dd>
+
+<dt>Pre-approval</dt>
+<dd>A statement from a lender that you possess enough means to secure a loan. It is not a commitment to lend you money.</dd>
+
+<dt>Escrow Account</dt>
+<dd>An account designed to manage taxes and insurance premiums, usually connected to your principal and interest payments</dd>
+
+<dt>Homeowner's Association</dt>
+<dd>The HOA sets the rules and regulations for the division, community, or complex.</dd>
+
+-
+
 <small>* Featured Photo by [Steven Houston](https://unsplash.com/photos/d2lO9btumD4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash</small>
