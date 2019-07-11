@@ -1578,7 +1578,11 @@ Congratulations, this glossary of terms should just be a review to you.
 
 -
 
+
+
 <h2>I am a homebuyer, what real estate terminology applies to me?</h2>
+
+<dl>
 
 <dt>Closing Costs</dt>
 <dd>Fees that are associated with a home purchase. They apply to both a seller and a buyer, and they are paid at the closing.</dd>
@@ -1644,6 +1648,8 @@ Congratulations, this glossary of terms should just be a review to you.
 
 <dt>Homeowner's Association</dt>
 <dd>The HOA sets the rules and regulations for the division, community, or complex.</dd>
+
+</dl>
 
 -
 
