@@ -167,17 +167,6 @@ I had known about the company for some time.  However, not living in San Francis
 
 I’d like to say that I followed Chris Guillebeau’s book exactly, but the book arrived at my house 37 days before the above Ryan Delk tweet, a tweet that prompted me to consider this as a viable, smart passive income stream.  From there, it took another 20 days to move forward with the idea and get my items into Omni storage.
 
-Here are the items (physical stock) that I am renting out:
-
-<ul>
- 	<li><a href="https://app.beomni.com/items/86196a92-d85f-4e35-8c69-1abf0f0ca281">Umbrella Stroller</a></li>
- 	<li><a href="https://app.beomni.com/items/cd9439f4-b64c-47e6-9cef-26f78669c066">Pack’N’Play</a></li>
- 	<li><a href="https://app.beomni.com/items/c4757da0-dfc2-438d-873c-ba585d9400bb">Wheelchair</a></li>
- 	<li><a href="https://app.beomni.com/items/af6d70d1-6084-43d1-88b1-270e51e8ce8e">Bouncy House</a></li>
-</ul>
-
-*Links are active, so if you live in San Francisco or the Bay Area and are throwing a birthday party for your kid, give the gift of [Bouncy House!](https://sfbouncehouse.com)*
-
 ### Why did I choose those items to rent out?
 
 The baby-related items were based on a post from Omni’s blog, <a href="https://blog.beomni.com/earn-money-with-omni-the-10-most-popular-rental-items-61fd582e3b86">Earn Money with Omni - The 10 Most Popular Rental Items</a>.
