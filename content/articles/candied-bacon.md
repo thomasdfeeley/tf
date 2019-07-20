@@ -197,7 +197,7 @@ Mix and match each time you try it.
 - <strong>Lunch:</strong> An easy way to spice up your BLT or turkey club.
 - <strong>Dinner:</strong> Toss it on a chef salad, or, build a pizza around it.
 - <strong>Dessert:</strong> Candied bacon cookies just sounds dope.
-- <strong>Drinks:</strong> <a href="https://berkshiremountaindistillers.com/our-products/berkshire-bourbon/">Bourbon</a> and <a href="http://www.leftysbrew.com/mapleale">maple ale</a> are natural pairings
+- <strong>Drinks:</strong> <a href="https://berkshiremountaindistillers.com/our-products/berkshire-bourbon/">Bourbon</a>, a natural pairing.
 
 ### Chipotle candied bacon pairs well with everyday life.
 

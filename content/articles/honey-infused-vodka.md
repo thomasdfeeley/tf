@@ -46,7 +46,7 @@ Because you are adding your own flavor to it. You don’t need the smoothest vod
 
 I’m sorry, “Brother Love”.
 
-Selecting a more expensive vodka might be a waste of money. But if you feel so compelled, try the <a href="http://www.bullyboydistillers.com/vodka/">Bully Boy</a> or the <a href="http://ciscobrewers.com/spirits/triple-8-vodka">Triple 8</a>. The Cisco Brewery tour is a delight.
+Selecting a more expensive vodka might be a waste of money. But if you feel so compelled, try the <a href="http://ciscobrewers.com/spirits/triple-8-vodka">Triple 8</a>. The Cisco Brewery tour is a delight.
 
 ## Quick Instructions
 

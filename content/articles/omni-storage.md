@@ -343,13 +343,7 @@ One feature that might be interesting would be a long-term rental discount.  I d
 
 Absolutely, if the numbers support it.  I really think it’s an interesting space, regardless of how the financials play out.
 
-### How do you start renting out stuff with Omni rentals?
-
-First, <a href="https://itunes.apple.com/app/id1039456090">download the app</a>.  Or, you can sign-up at <a href="https://www.beomni.com/">BeOmni.com</a>.
-
-If you do, feel free to use my referral code below.  You get <b>$25 in Omni credit</b> and I get $10 when you store your first item.  Good deal for both of us, right?
-
-Referral Code: <strong>TFEELEY</strong>
+-
 
 Thanks for your patience while reading about my new side hustle.  I hope it inspires you to pursue your own passive income streams.
 

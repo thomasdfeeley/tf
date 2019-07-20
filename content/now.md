@@ -10,5 +10,5 @@ author: "tom"
 - Learning about <a href="/real-estate-terms/">real estate</a>.
 - Eating <a href="/candied-bacon/">candied bacon</a>.
 - <a href="/hyperdecanting/">Hyperdecanting</a> two buck chuck (aerating wine in a blender)
-- Talking about continuous learning on the <a href="http://www.developingup.com/27">Developing Up</a> podcast
+- Talking about continuous learning on the <a href="https://www.developingup.com/episodes/27">Developing Up</a> podcast
 - Running [Digital Squire](https://www.thedigitalsquire.com/)

@@ -163,7 +163,7 @@ First off, it’s not like freeze drying food. You should consume the wine immed
 
 It won’t turn a cheap red wine into a good red wine. Let’s face it, you couldn’t slide your hyperdecanted two buck chuck past an actual sommelier. But, there is still plenty of room to impress your friends at your next wine tasting party.
 
-May I suggest a fine Pacific Peak Cabernet Sauvignon? Or if you want to add a touch of class, you could opt for the <a href="https://www.amazon.com/gp/product/B075FXYQYP/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B075FXYQYP&amp;linkCode=as2&amp;tag=tomfeeley-20&amp;linkId=ed347d618bbb4ee9357cc9e8cd9418ca" target="_blank" rel="noopener">Wente Cabernet Sauvignon</a><img style="border: none !important; margin: 0px !important;" src="//ir-na.amazon-adsystem.com/e/ir?t=tomfeeley-20&amp;l=am2&amp;o=1&amp;a=B075FXYQYP" alt="" width="1" height="1" border="0" />.
+May I suggest a fine Pacific Peak Cabernet Sauvignon?
 
 ## For an optimal wine tasting experience
 Try a good cheese pairing, say ... a rich <a href="https://en.wikipedia.org/wiki/Mah%C3%B3n_cheese">mahón</a> with some jamón serrano.
