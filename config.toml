@@ -20,3 +20,5 @@ articles = "/:filename/"
 category = "categories"
 tag = "tags"
 series = "series"
+
+disableAliases = true
