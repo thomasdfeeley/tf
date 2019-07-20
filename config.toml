@@ -5,6 +5,7 @@ theme = "knight"
 
 enableRobotsTXT = true
 canonifyURLs = true
+disableAliases = false
 googleAnalytics = "UA-108608358-1"
 
 [params]
@@ -20,5 +21,3 @@ articles = "/:filename/"
 category = "categories"
 tag = "tags"
 series = "series"
-
-disableAliases = true
