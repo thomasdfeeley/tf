@@ -1,5 +1,5 @@
 ---
-title: "Tom Feeley"
+title: "TF"
 metatitle: "About me"
 description: "Interests include digital strategy, SEO, marketing, design, development, real estate, and property management."
 date: 2018-05-27T06:59:31-04:00
