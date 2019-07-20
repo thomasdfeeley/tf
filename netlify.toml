@@ -28,9 +28,3 @@ HUGO_VERSION = "0.45.1"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
-
-[[redirects]]
-  from = "/omni-storage"
-  to = "/omni"
-  status = 301
-  force = true
