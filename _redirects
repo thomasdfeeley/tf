@@ -4,7 +4,4 @@
 http://tomfeeley.com/* https://tomfeeley.com/:splat 301!
 http://www.tomfeeley.com/* https://tomfeeley.com/:splat 301!
 https://www.tomfeeley.com/* https://tomfeeley.com/:splat 301!
-
-# basic redirects
-
 /omni-storage /omni  301!

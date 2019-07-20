@@ -5,7 +5,7 @@ theme = "knight"
 
 enableRobotsTXT = true
 canonifyURLs = true
-disableAliases = false
+disableAliases = true
 googleAnalytics = "UA-108608358-1"
 
 [params]
