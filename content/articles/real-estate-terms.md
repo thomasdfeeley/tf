@@ -54,9 +54,9 @@ Maybe?  As a person responsible for the management of an income property, famili
 
 Congratulations, this glossary of terms should just be a review to you.
 
-1. [Terms that begin with A]()
+1. [Terms that begin with A](/real-estate-terms-that-begin-with-a/)
 
-## The 497 Real Estate Terms &amp; Definitions
+## The 497 Real Estate Terms & Definitions
 
 ### 1031 Exchange (1031 tax deferred exchange)
 Under Section 1031 of the IRS Code, some or all of the realized gain from the exchange of one property for a like kind property may be deferred. It is not a tax-free event; however, in order to accumulate wealth, the payment is deferred.
