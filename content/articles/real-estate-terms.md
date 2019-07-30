@@ -56,14 +56,12 @@ Congratulations, this glossary of terms should just be a review to you.
 
 - - -
 
-<h2>The 497 Real Estate Terms &amp; Definitions</h2>
-
-<dl>
+## The 497 Real Estate Terms &amp; Definitions
 
 <h3>1031 Exchange (1031 tax deferred exchange)</h3>
 <p>Under Section 1031 of the IRS Code, some or all of the realized gain from the exchange of one property for a like kind property may be deferred. It is not a tax-free event; however, in order to accumulate wealth, the payment is deferred.</p>
 
-<h2>Real estate terms that begin with A</h2>
+## Real estate terms that begin with A
 
 <h3>Abandonment</h3>
 <p>The voluntary and permanent cessation of use or enjoyment with no intention to resume or reclaim one’s possession or interest. May pertain to an easement of a property.</p>
@@ -191,7 +189,7 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>Avulsion</h3>
 <p>A sudden tearing away of land by the action of natural forces.</p>
 
-<h2>Real estate terms that begin with B</h2>
+## Real estate terms that begin with B
 <h3>Balloon payment</h3>
 <p>The final payment of a mortgage loan that is considerably larger than the required periodic payments, because the loan amount was not fully amortized.</p>
 
@@ -279,7 +277,7 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>Buydown</h3>
 <p>A payment made, often by the seller, to help the buyer qualify for the loan.</p>
 
-<h2>Real estate terms that begin with C</h2>
+## Real estate terms that begin with C
 <h3>Canvassing</h3>
 <p>The practice of making telephone calls or visiting from door to door to seek prospective buyers or sellers; in the real estate business, generally associated with acquired listings in a given area.</p>
 
@@ -454,7 +452,7 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>Cycle</h3>
 <p>A recurring sequence of events that regularly follow one another, generally within a fixed interval of time.</p>
 
-<h2>Real estate terms that begin with D</h2>
+## Real estate terms that begin with D
 <h3>Datum</h3>
 <p>A horizontal plane from which heights and depths are measured.</p>
 
@@ -551,7 +549,7 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>DVA loan</h3>
 <p>A mortgage loan on approved property made to a qualified veteran by an authorized lender and guaranteed by the Department of Veterans Affairs to limit possible loss by the lender.</p>
 
-<h2>Real estate terms that begin with E</h2>
+## Real estate terms that begin with E
 <h3>Earnest money deposit</h3>
 <p>An amount of money deposited by a buyer under the terms of a contract. In the event that the buyer, for no valid or legal reason, backs out of the transaction, earnest money is sometimes used as liquidated damages.</p>
 
@@ -678,7 +676,7 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>Expressed contract</h3>
 <p>An oral or written contract in which the parties state their terms and express their intentions in words.</p>
 
-<h2>Real estate terms that begin with F</h2>
+## Real estate terms that begin with F
 <h3>Fair Housing Act of 1968</h3>
 <p>The term for Title VIII of the <a href="https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1968">Civil Rights Act of 1968</a> as amended, which prohibits discrimination based on race, color, sex, religion, national origin, handicaps, and familial status in the sale and rental of residential property.</p>
 
@@ -742,7 +740,7 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>Future interest</h3>
 <p>A person’s present right to an interest in real property that will not result in possession or enjoyment until sometime in the future, such as a reversion or right of reentry.</p>
 
-<h2>Real estate terms that begin with G</h2>
+## Real estate terms that begin with G
 <h3>Gap</h3>
 <p>A defect in the chain of title of a particular parcel of real estate; a missing document or conveyance that raises doubt as to the present ownership of the land.</p>
 
@@ -797,7 +795,7 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>Guardian</h3>
 <p>One who guards or cares for another person’s rights and properties. A guardian has legal custody of the affairs of a minor or a person incapable of taking care of his or her own interests, called a ward.</p>
 
-<h2>Real estate terms that begin with H</h2>
+## Real estate terms that begin with H
 <h3>Habendum clause</h3>
 <p>The deed clause beginning “to have and to hold,” which defines or limits the extend of ownership in the state granted by the deed.</p>
 
@@ -831,7 +829,7 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>Hypothecation</h3>
 <p>The pledge of property as security of a loan in which the borrower maintains possession of the property while it is pledged as security.</p>
 
-<h2>Real estate terms that begin with I</h2>
+## Real estate terms that begin with I
 <h3>Implied contract</h3>
 <p>A contract under which the agreement of the parties is demonstrated by their acts and conduct.</p>
 
@@ -889,7 +887,7 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>Investment</h3>
 <p>Money directed toward the purchase, improvement, and development of an asset in expectation of income or profits. A good financial investment has the following characteristics: safety, regularity of yield, marketability, acceptable denominations, valuable collateral, acceptable duration, required attention, and potential appreciation.</p>
 
-<h2>Real estate terms that begin with J</h2>
+## Real estate terms that begin with J
 <h3>Joint tenancy</h3>
 <p>The ownership of real estate by two or more parties who have been named in one conveyance as joint tenants. On the death of a joint tenant, her or his interest passes to the surviving joint tenant or tenants by the right of survivorship.</p>
 
@@ -902,7 +900,7 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>Judgment clause</h3>
 <p>A provision that may be included in notes, leases, and contracts by which the debtor, lessee, or obligor authorizes any attorney to go into court to confess a judgment against him or her for a default in payment. Also called a cognovit.</p>
 
-<h2>Real estate terms that begin with L</h2>
+## Real estate terms that begin with L
 <h3>Laches</h3>
 <p>An equitable doctrine used by the courts to bar a legal claim or prevent the assertion of a right because of undue delay, negligence, or failure to assert the claim or right.</p>
 
@@ -969,7 +967,7 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>Lot and block description</h3>
 <p>A description of real property that identifies a parcel of land by reference to lot and block numbers within a subdivision, as identified on a subdivided plat duly recorded in the county recorder’s office.</p>
 
-<h2>Real estate terms that begin with M</h2>
+## Real estate terms that begin with M
 <h3>Management agreement</h3>
 <p>A contract between the owner of income property and a management firm or individual property manager outlining the scope of the manager’s authority.</p>
 
@@ -1039,7 +1037,7 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>Mutual rescission</h3>
 <p>The act of putting an end to a contract by mutual agreement of the parties.</p>
 
-<h2>Real estate terms that begin with N</h2>
+## Real estate terms that begin with N
 <h3>Negligence</h3>
 <p>Carelessness and inattentiveness resulting in violation of trust. Failure to do what is required.</p>
 
@@ -1067,7 +1065,7 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>Novation</h3>
 <p>Acceptance by parties to an agreement to replace an old debtor with a new one. A novation releases liability.</p>
 
-<h2>Real estate terms that begin with O</h2>
+## Real estate terms that begin with O
 <h3>Offer and notification of acceptance</h3>
 <p>The two components of a valid contract; a “meeting of the minds.”</p>
 
@@ -1095,7 +1093,7 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>Ownership</h3>
 <p>The exclusive right to hold, possess or control, and dispose of a tangible or intangible thing. Ownerships may be held by a person, corporation, or governmental entity.</p>
 
-<h2>Real estate terms that begin with P</h2>
+## Real estate terms that begin with P
 <h3>Package mortgage</h3>
 <p>A method of financing in which the purchase of the land also finances the purchase of certain personal property items.</p>
 
@@ -1213,14 +1211,14 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>Purchase-money mortgage</h3>
 <p>A note secured by a mortgage or deed of trust given by a buyer, as a mortgagor, to a seller, as a mortgagee, as part of the purchase price of the real estate.</p>
 
-<h2>Real estate terms that begin with Q</h2>
+## Real estate terms that begin with Q
 <h3>Qualifying</h3>
 <p>The act of determining a prospect’s motivation, then matching his or her needs with the available inventory.</p>
 
 <h3>Quitclaim deed</h3>
 <p>A conveyance by which the grantor transfers whatever interest he or she has in the real estate without warranties or obligations.</p>
 
-<h2>Real estate terms that begin with R</h2>
+## Real estate terms that begin with R
 <h3>Range</h3>
 <p>A six-mile strip of land measured east and west from the meridian lines.</p>
 
@@ -1329,7 +1327,7 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>Rural development</h3>
 <p>A federal agency of the U.S. Department of Agriculture that channels credit to farmers and rural residents and communities; formerly known as the Farm Service Agency and Farmer’s Home Administration (FmHA).</p>
 
-<h2>Real estate terms that begin with S</h2>
+## Real estate terms that begin with S
 <h3>Sale and leaseback</h3>
 <p>A transaction in which an owner sells her or his improved property and, as part of the same transaction, signs a long-term lease to remain in possession of the premises.</p>
 
@@ -1453,7 +1451,7 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>Syndicate</h3>
 <p>A combination of two or more persons or firms to accomplish a joint venture of mutual interest. Syndicates dissolve when the specific purpose for which they were created has been accomplished.</p>
 
-<h2>Real estate terms that begin with T</h2>
+## Real estate terms that begin with T
 <h3>Taxation</h3>
 <p>The process by which a government or municipal quasi-public body raises monies to fund its operation.</p>
 
@@ -1526,7 +1524,7 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>Trustee’s deed</h3>
 <p>A deed executed by a trustee conveying land held in a trust to the beneficiary.</p>
 
-<h2>Real estate terms that begin with U</h2>
+## Real estate terms that begin with U
 <h3>Unearned increment</h3>
 <p>An increase in the value of a property caused by increased population, development, or demand for which the owner is not responsible.</p>
 
@@ -1554,7 +1552,7 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>Usury</h3>
 <p>The practice of charging more than the rate of interest allowed by law.</p>
 
-<h2>Real estate terms that begin with V</h2>
+## Real estate terms that begin with V
 <h3>Valid contract</h3>
 <p>A contract that complies with all the essential elements on a contract and is binding and enforceable on all parties to it.</p>
 
@@ -1570,19 +1568,19 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>Variance</h3>
 <p>An exception from the zoning ordinances; permission granted by zoning authorities to build a structure or conduct a use that is expressly prohibited by zoning ordinance.</p>
 
-<h2>Real estate terms that begin with W</h2>
+## Real estate terms that begin with W
 <h3>Writ of attachment</h3>
 <p>The method by which a debtor’s property is placed in the custody of the law and held as security, pending the outcome of a creditor’s suit.</p>
 
-</dl>
+
 
 -
 
 
 
-<h2>I am a homebuyer, what real estate terminology applies to me?</h2>
+## I am a homebuyer, what real estate terminology applies to me?
 
-<dl>
+
 
 <h3>Closing Costs</h3>
 <p>Fees that are associated with a home purchase. They apply to both a seller and a buyer, and they are paid at the closing.</p>
@@ -1649,7 +1647,7 @@ Congratulations, this glossary of terms should just be a review to you.
 <h3>Homeowner's Association</h3>
 <p>The HOA sets the rules and regulations for the division, community, or complex.</p>
 
-</dl>
+
 
 -
 
