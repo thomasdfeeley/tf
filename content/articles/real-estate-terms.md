@@ -54,7 +54,7 @@ Maybe?  As a person responsible for the management of an income property, famili
 
 Congratulations, this glossary of terms should just be a review to you.
 
-1. [Terms that begin with A](/#real-estate-terms-that-begin-with-a/)
+1. [Terms that begin with A](#real-estate-terms-that-begin-with-a)
 
 ## The 497 Real Estate Terms & Definitions
 
