@@ -54,9 +54,34 @@ Maybe?  As a person responsible for the management of an income property, famili
 
 Congratulations, this glossary of terms should just be a review to you.
 
-1. [Terms that begin with A](/real-estate-terms/#real-estate-terms-that-begin-with-a)
-
 ## The 497 Real Estate Terms & Definitions
+
+1. [Terms that begin with A](/real-estate-terms/#real-estate-terms-that-begin-with-a)
+2. [Terms that begin with B](/real-estate-terms/#real-estate-terms-that-begin-with-b)
+3. [Terms that begin with C](/real-estate-terms/#real-estate-terms-that-begin-with-c)
+4. [Terms that begin with D](/real-estate-terms/#real-estate-terms-that-begin-with-d)
+5. [Terms that begin with E](/real-estate-terms/#real-estate-terms-that-begin-with-e)
+6. [Terms that begin with F](/real-estate-terms/#real-estate-terms-that-begin-with-f)
+7. [Terms that begin with G](/real-estate-terms/#real-estate-terms-that-begin-with-g)
+8. [Terms that begin with H](/real-estate-terms/#real-estate-terms-that-begin-with-h)
+9. [Terms that begin with I](/real-estate-terms/#real-estate-terms-that-begin-with-i)
+10. [Terms that begin with J](/real-estate-terms/#real-estate-terms-that-begin-with-j)
+11. [Terms that begin with K](/real-estate-terms/#real-estate-terms-that-begin-with-k)
+12. [Terms that begin with L](/real-estate-terms/#real-estate-terms-that-begin-with-l)
+13. [Terms that begin with M](/real-estate-terms/#real-estate-terms-that-begin-with-m)
+14. [Terms that begin with N](/real-estate-terms/#real-estate-terms-that-begin-with-n)
+15. [Terms that begin with O](/real-estate-terms/#real-estate-terms-that-begin-with-o)
+16. [Terms that begin with P](/real-estate-terms/#real-estate-terms-that-begin-with-p)
+17. [Terms that begin with Q](/real-estate-terms/#real-estate-terms-that-begin-with-q)
+18. [Terms that begin with R](/real-estate-terms/#real-estate-terms-that-begin-with-r)
+19. [Terms that begin with S](/real-estate-terms/#real-estate-terms-that-begin-with-s)
+20. [Terms that begin with T](/real-estate-terms/#real-estate-terms-that-begin-with-t)
+21. [Terms that begin with U](/real-estate-terms/#real-estate-terms-that-begin-with-u)
+22. [Terms that begin with V](/real-estate-terms/#real-estate-terms-that-begin-with-v)
+23. [Terms that begin with W](/real-estate-terms/#real-estate-terms-that-begin-with-w)
+24. [Terms that begin with X](/real-estate-terms/#real-estate-terms-that-begin-with-x)
+25. [Terms that begin with Y](/real-estate-terms/#real-estate-terms-that-begin-with-y)
+26. [Terms that begin with Z](/real-estate-terms/#real-estate-terms-that-begin-with-z)
 
 ### 1031 Exchange (1031 tax deferred exchange)
 Under Section 1031 of the IRS Code, some or all of the realized gain from the exchange of one property for a like kind property may be deferred. It is not a tax-free event; however, in order to accumulate wealth, the payment is deferred.
